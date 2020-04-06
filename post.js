@@ -1,6 +1,6 @@
 const axios = require('axios')
 
-const HOST_IP = "http://106.12.216.163:8080/";
+const HOST_IP = "http://1XXXX:8080/";
 const AUTH_ADDRESS = HOST_IP + "api/auth/login";
 //111
 // const DEVICE_ID = "b3bcb810-56cf-11ea-9eca-97bfcfb9f3d0";
